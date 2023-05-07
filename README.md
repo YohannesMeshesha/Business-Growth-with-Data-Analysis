@@ -1,5 +1,5 @@
 # Business-Growth-with-Data-Analysis
-#H1 Business-Growth-with-Data-Analysis
+
 Introduction:
 
 XYZ is a leading retail company that deals with a variety of products. The company has several branches in different cities and caters to customers from different backgrounds. Despite being a successful company, XYZ was facing challenges in terms of sales tracking and revenue generation analysis. To address these challenges, the company needed a data analysis project that could provide insights into sales and revenue performance. 
