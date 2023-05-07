@@ -13,6 +13,16 @@ Solution:
 To address these challenges, we developed a data analysis project that provided insights into sales and revenue performance across different parameters. We created a sales dashboard that showed the total quantity sold by branch, city, and customer type. Additionally, we used a stacked column chart to depict the average prices of product lines, and a donut chart to show the total payment by payment method. The donut chart also showed the percentage contribution of each payment method towards total revenue.
 
 Furthermore, we provided KPI cards that disabled dynamic filters and showed total invoices, total revenue, gross income, and total quantity sold. The data analysis project helped the company to gain insights into sales performance, revenue generation, and payment methods' effectiveness. The centralized system enabled the company to make informed decisions quickly, leading to better revenue generation and business growth.
+ SALES DASHBORD
+ 
+![A](https://user-images.githubusercontent.com/131899006/236694541-6ca6f976-95ff-4540-a592-49086868ee99.png)
+
+SUPER MARKET
+
+![b](https://user-images.githubusercontent.com/131899006/236694549-efa216f2-6d7a-4a04-8fc9-8923739f3a59.png)
+
+
+
 
 Conclusion:
 
